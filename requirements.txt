@@ -7,3 +7,4 @@ python-dotenv
 boto3
 djoser
 djangorestframework-simplejwt
+django-filter
