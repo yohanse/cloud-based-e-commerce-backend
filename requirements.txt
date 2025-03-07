@@ -1,0 +1,9 @@
+pymysql
+django-storages[s3]
+djangorestframework
+drf-nested-routers
+Pillow
+python-dotenv
+boto3
+djoser
+djangorestframework-simplejwt
