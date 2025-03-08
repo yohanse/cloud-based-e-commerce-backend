@@ -1,5 +1,7 @@
 # E-Commerce API
 
+## continuation of https://github.com/yohanse/e-commerce-backend
+
 ## Overview
 This is a RESTful API for an e-commerce platform built using Django and Django REST Framework. It provides functionality for managing products, categories, customers, orders, shopping carts, and reviews. The API is designed with scalability, security, and cost-effectiveness in mind, utilizing AWS serverless architecture with **Zappa**, **API Gateway**, **Lambda**, **RDS**, and **S3**.
 
